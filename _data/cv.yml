@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Leo Nicatot
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th August 2000
     - name: Languages
-      value: English, German
+      value: Chinese(Mandarin, Cantonese, Teochewese), English, 
 
 - title: Education
   type: time_table
