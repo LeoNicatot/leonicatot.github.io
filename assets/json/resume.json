@@ -29,7 +29,7 @@
   "skills": [],
   "languages": [
     {
-      "language": ["Mandarin(Chinese), Southern Min-Teochew(Chinese)"],
+      "language": ["Mandarin(Chinese), Teochew Dialect(Southern Min, Chinese)"],
       "fluency": "Native speaker"
     },
     {
@@ -41,7 +41,7 @@
       "fluency": "Only know a little vocabulary"
     },
     {
-      "language": ["Italian, Russian, Hungarian, Finnish", "Thai"], 
+      "language": ["Italian, Russian, Hungarian, Finnish, Thai"], 
       "fluency": "Only familiar with its phonology"
     }
   ],
