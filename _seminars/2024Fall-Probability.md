@@ -28,7 +28,7 @@ We will hold this seminar once a week. Each time a speaker will give a talk/lect
 
 The detailed schedule will be updated later.
 
-| Topics                      | Speaker | Time | Slides | Notes(PDF) | Notes(HTML) |
-| --------------------------- | ------- | ---- | ------ | ---------- | ----------- |
-| Introduction to Probability |         |      |        |            |             |
-|                             |         |      |        |            |             |
+| Topics                      | Speaker | Time | Slides | Notes |
+| --------------------------- | ------- | ---- | ------ | ----- |
+| Introduction to Probability |         |      |        |       |
+| TBD                         |         |      |        |       |
