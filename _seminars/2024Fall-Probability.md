@@ -6,7 +6,7 @@ description:
 
 ### Seminar Info
 
-*Probability* (including *Random Process*) is a very important mathematical tool for many advanced topics, *e.g.*, *Advanced Algorithms*(including *Randomized Algorithms* and *Approximation Algorithms*), *Analysis of Algorithms*, *Combinatorial Mathematics* (particularly, *The Probabilistic Methods* popularized by [Paul Erdős(ˈɛrdøːʃ)](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)), *Machine Learning*, *Statistics*, *etc*.
+*Probability* (including *Random Process*) is a very important mathematical tool for many advanced topics, *e.g.*, *Advanced Algorithms*(including *Randomized Algorithms* and *Approximation Algorithms*), *Analysis of Algorithms*, *Combinatorial Mathematics* (particularly, *The Probabilistic Methods* popularized by [Paul Erdős[ˈɛrdøːʃ]](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)), *Machine Learning*, *Statistics*, *etc*.
 
 In order to dive into the core of Computer Science and do more interesting research, we decide to host a **Probability and Computing** Seminar in the fall semester of 2024 (2023/9 ~ 2024/1). We'll be using *Probability and Computing* by *Michael Mitzenmacher* and *Eli Upfal* as our main material. Hopefully, we will cover at least **Chapter 1 to Chapter 7** of this book in this seminar, which are: 
 
