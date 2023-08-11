@@ -7,8 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-I LOVE SEMINARS! It is more flexible than taking courses with so many students, while it is more inspiring than studying alone. Do you wanna learn something with me? <font size = 5><strong>LET'S DO IT!</strong></font>
+I LOVE SEMINARS! It is more flexible than taking courses with so many students (since you can interact more with the speaker and listeners), while it is more inspiring than studying alone (after all, human beings are *lazy* creatures, especially me).
 
-In order to do interesting research — which is our tenet — we need to keep learning new things, especially **beautiful** and **general** theories. In our future seminars, we might learn *Probability*, *Advanced Algorithms*, *Machine Learning and Deep Learning*, *Program Analysis*, *Programming Languages*, *Computational Complexity*, *etc*.
+In order to do interesting research, which is our tenet, we need to learn some hardcore knowledge, especially **beautiful** and **general** theories. In our future seminars, we might learn *Probability*, *Advanced Algorithms*, *Program Analysis*, *Theory of Programming Languages*, *Combinatorics*, *Computational Complexity*, *etc*.
+
+From Spet. 2023, Professor Niu will start hosting a series of discussion seminars in Suzhou Campus. Since these seminars are *experimental* and *immature*, they are currently open to members in our group only. After these seminars getting matured (probably in 2 to 3 years), they will gradually be open to everyone.
 
 - Probability and Computing (Fall 2024)
