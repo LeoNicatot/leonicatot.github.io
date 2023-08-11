@@ -11,4 +11,4 @@ I LOVE SEMINARS! It is more flexible than taking courses with so many students, 
 
 In order to do interesting research — which is our tenet — we need to keep learning new things, especially **beautiful** and **general** theories. In our future seminars, we might learn *Probability*, *Advanced Algorithms*, *Machine Learning and Deep Learning*, *Programming Languages*, *etc*.
 
-- [Probability and Computing (Fall 2024)](/seminars/2024Fall-Probability)
+- Probability and Computing (Fall 2024)
