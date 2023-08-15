@@ -1,14 +1,25 @@
 ---
 layout: page
-title: Probability and Computing (Fall 2024)
+title: Probability and Statistics (Fall 2024)
 description: 
 ---
 
-### Seminar Info
+### Topic Introduction
 
-*Probability* (including *Random Process*) is a very important mathematical tool for many advanced topics, *e.g.*, *Advanced Algorithms*(including *Randomized Algorithms* and *Approximation Algorithms*), *Analysis of Algorithms*, *Combinatorial Mathematics* (particularly, *The Probabilistic Methods* popularized by [Paul Erdős[ˈɛrdøːʃ]](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)), *Machine Learning*, *Statistics*, *etc*.
+*Probability* and *Statistics* are two closely-related but different topics. While both of them study the black box of randomness, they focus on different problem: 
 
-In order to dive into the core of Computer Science and do more interesting research, we decide to host a **Probability and Computing** Seminar in the fall semester of 2024 (2023/9 ~ 2024/1). We'll be using *Probability and Computing* by *Michael Mitzenmacher* and *Eli Upfal* as our main material. Hopefully, we will cover at least **Chapter 1 to Chapter 7** of this book in this seminar, which are: 
+- *Probability*: I have known the *inside mechanism*. What is the *outside behaviors*?
+- *Statistics*: I have known the *outside behaviors*. What is the *inside mechanism*?
+
+*Probability* (including *Random Process*) is a very important **theoretical mathematical model** for many advanced topics, *e.g.*, *Advanced Algorithms*(including *Randomized Algorithms* and *Approximation Algorithms*), *Analysis of Algorithms*, *Combinatorial Mathematics* (particularly, *The Probabilistic Methods* popularized by [Paul Erdős[ˈɛrdøːʃ]](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)), *etc*.
+
+Based on *Probability*, *Statistics* is a very important **applied mathematical tool** to solve many problems. For example, it is the basis of most *Machine Learning* algorithms. Actually, since most Machine Learning algorithms come from the field of *Statistical Learning*, it is fair to say that a large part of *Machine Learning* belongs to *Statistics*. Besides, if you want to be a great **decision maker** (e.g., policy maker in government, investor, *etc.*), *Statistics* will be essential for you. In my view, *Statistics* is the core of *Data Science*.
+
+### Seminar Information
+
+#### Content
+
+In this seminar, we'll be using *Probability and Computing* by *Michael Mitzenmacher* and *Eli Upfal* as our main material. Hopefully, we will cover at least **Chapter 1 to Chapter 7** of this book in this seminar, which are: 
 
 - Events and Probability
 - Discrete Random Variables and Expectation
@@ -18,17 +29,22 @@ In order to dive into the core of Computer Science and do more interesting resea
 - The Probabilistic Methods
 - Markov Chains and Random Walks
 
-Besides, we might cover some topics in frontier research (mostly not from TCS), such as the *generation of Covering Array for Combinatorial Testing*, *Zero-Knowledge Proof*, *etc*. 
+Besides, we will also cover some topics beyond these 7 chapters: 
 
-The reason why we want to cover these is that learning theory is important though, **finding and solving the real problems** is important as well, which is often neglected. We believe our undergraduates are intelligent enough to solve tricky problems in frontier research — the only thing lacking is that they haven't had access to the real problems, or at least nobody tries to lead them to find the real and impactful problems.
+- Probability
+  - Consecutive Random Variable
+  - Concentration of Measurement
+- Statistics
+  - Parameter Estimation
+  - Hypothesis Testing
+- Some Machine Learning Algorithms and Ideas
+- ...(To be updated)
 
-We will hold this seminar once a week. Each time a speaker will give a talk/lecture on a certain topic with slides (and maybe notes). At that time, these slides and notes will be available on this page.
-
-### Schedule
+#### Schedule
 
 The detailed schedule will be updated later.
 
-| Topics                      | Speaker | Time | Slides | Notes |
-| --------------------------- | ------- | ---- | ------ | ----- |
-| Introduction to Probability |         |      |        |       |
-| TBD                         |         |      |        |       |
+| Topics                                     | Time | Speaker | Material                                                |
+| ------------------------------------------ | ---- | ------- | ------------------------------------------------------- |
+| Introduction to Probability and Statistics | TBD  | TBD     | slides([pdf](), [html]())<br />notes([pdf](), [html]()) |
+|                                            |      |         |                                                         |
