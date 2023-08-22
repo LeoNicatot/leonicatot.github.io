@@ -13,4 +13,4 @@ In order to do interesting research, which is our tenet, we need to learn some h
 
 From Spet. 2023, Professor Niu will start hosting a series of **discussion seminars** in Suzhou Campus. Since these seminars are *experimental* and *immature*, they are currently open to members in our group only. After these seminars getting matured (probably in 2 to 3 years), they will gradually be open to everyone.
 
-- [Probability and Statistics (Fall 2024)](/seminars/2024Fall-Probability/)
+- [Probability and Statistics (Fall 2023)](/seminars/2023Fall-Probability/)

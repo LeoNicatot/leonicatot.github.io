@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Probability and Statistics (Fall 2024)
+title: Probability and Statistics (Fall 2023)
 description: 
 ---
 
