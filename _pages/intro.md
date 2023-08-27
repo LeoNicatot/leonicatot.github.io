@@ -1,18 +1,34 @@
 ---
 layout: distill
-permalink: /personal/
-title: Personal
+permalink: /intro/
+title: Introduction
 giscus_comments: true
-description: You can learn all about me here
 nav: true
 date: 2023-08-27
 authors:
   - name: Leo Nicatot
 toc:
+  - name: Computer Science
   - name: Phonetics
   - name: Psychology
   - name: Chorus
 ---
+
+This page will introduce more about me. I’ll talk about me in various aspects, which covers my interests, my experiences, and what I’m planning to do.
+
+## Computer Science
+
+When I finished the College Entrance Examination (aka 高考), I don’t know which major to choose. Some people suggest me to choose Computer Science as my major. Their justification is “*Since you don’t know what you like, it would be the best to choose a major that can make sure you can earn a living without too much pressure*”. I have to say that this is a fabulous reason.
+
+After the first year in University, I found CS really interesting. It has a lot of elegant theories, it is powerful to create something. I regarded CS as a perfect mix of Science and Engineering. At this time, I thought I’m so lucky to choose CS as my major!
+
+But later, my thoughts changed. After witnessing many unjust things and heartbreaking scenes, I thought technology isn’t helpful for our society and the world to get peace and harmony. I lost interest in studying CS, and I was considering switching my major to some humanity majors.
+
+My thoughts changed again after I approached some people who majored in humanity. Surprisingly, I found most of them are also incapable of dealing with these problems. They do not have the power to influence the world as well. After that, I continue to studying CS, but I’m also keeping in touch with these humanity fields. I believe that I’ll benefit from these knowledge. But before doing something influential, I need to establish my career first — only in this way can I have the muscle to influence.
+
+When my third years ended, I needed to decide where should I go. At first, I had no interest in doing research. I thought most research are useless and boring. It was more appealing to go to work, because programmers can get a rather high salary then. However, I thought maybe I should go to a better university to see what those top researchers are doing. 
+
+Luckily, I met Professor Niu at NJU, who enlightened me that doing research can be a lot of fun. Professor Niu is very passionate about novel ideas, and he has a lot of deep thoughts. Therefore, I decide to do research with him. Currently, I’m laying foundation for Software Engineering and Programming Languages. Meanwhile, we’re hosting discussion seminars in Suzhou Campus, which aims to build a community of studying advanced topics. 
 
 ## Phonetics
 
