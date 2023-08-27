@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About Nicatot
+title: About
 permalink: /
 subtitle: 
 
