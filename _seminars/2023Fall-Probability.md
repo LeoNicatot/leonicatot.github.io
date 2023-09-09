@@ -8,7 +8,7 @@ description:
 
 *Probability* and *Statistics* are two closely-related but different topics. While both of them study the black box of randomness, they focus on different problems: 
 
-- *Probability*: I have known the *inside mechanism*. What is the *outside behaviors*?
+- *Probability*: I have known the *inside mechanism*. What are the *outside behaviors*?
 - *Statistics*: I have known the *outside behaviors*. What is the *inside mechanism*?
 
 *Probability* (including *Random Process*) is a very important **theoretical mathematical model** for many advanced topics, *e.g.*, *Advanced Algorithms* (including *Randomized Algorithms* and *Approximation Algorithms*), *Analysis of Algorithms*, *Combinatorial Mathematics* (particularly, *The Probabilistic Methods* popularized by [Paul Erdős[ˈɛrdøːʃ]](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s)), *etc*.
@@ -29,14 +29,16 @@ In this seminar, we'll be using *Probability and Computing* by *Michael Mitzenma
 - The Probabilistic Methods
 - Markov Chains and Random Walks
 
-Besides, we will also cover some topics beyond these 7 chapters: 
+Besides, we might also cover some topics beyond these 7 chapters: 
 
 - Probability
-  - Consecutive Random Variable
+  - Continuous Random Variable
+  - Law of Large Number & Central Limit Theorem
   - Concentration of Measurement
 - Statistics
   - Parameter Estimation
   - Hypothesis Testing
+- Some Random Algorithms
 - Some Machine Learning Algorithms and Ideas
 - ...(To be updated)
 
@@ -51,10 +53,18 @@ The detailed schedule will be updated later.
 
 #### Reference
 
-- Books
-  - Probability and Random Processes (4th edition) by Geoffrey R. Grimmett, David R. Stirzaker
-  - Understanding Probability (3rd edition) by Henk Tijms
-- Courses
-  - [Probability and Statistics (Fall 2023)](http://www.lamda.nju.edu.cn/zhangsq/teaching/PS_Fall_2023/PS_Fall_2023.html) by [Prof. Shaoqun Zhang](http://www.lamda.nju.edu.cn/zhangsq/)
-  - [Probability Theory and Mathematical Statistics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
-  - [Advanced Algorithms (Fall 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/), [Prof. Shi Li](https://tcs.nju.edu.cn/shili/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
+##### Books
+
+- **Probability and Random Processes** (4th edition) by Geoffrey R. Grimmett, David R. Stirzaker
+- **Understanding Probability** (3rd edition) by Henk Tijms
+- **Probability Theory: The Logic of Science** by E. T. Jaynes
+- **The Seven Pillar of Statistical Wisdom** by Stephen M. Stigler
+- **机会的数学：统计学入门**，陈希孺著
+- **概率论与数理统计**，陈希孺著
+- **大数据时代的统计思想**，李勇著
+
+##### Courses
+
+- [Probability and Statistics (Fall 2023)](http://www.lamda.nju.edu.cn/zhangsq/teaching/PS_Fall_2023/PS_Fall_2023.html) by [Prof. Shaoqun Zhang](http://www.lamda.nju.edu.cn/zhangsq/)
+- [Probability Theory and Mathematical Statistics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
+- [Advanced Algorithms (Fall 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/), [Prof. Shi Li](https://tcs.nju.edu.cn/shili/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
