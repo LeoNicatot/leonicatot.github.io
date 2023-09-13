@@ -53,12 +53,16 @@ The detailed schedule will be updated later.
 
 #### Reference
 
+Here are all materials that I’ve referred when I was preparing for the seminar.
+
 ##### Books
 
 - **Probability and Random Processes** (4th edition) by Geoffrey R. Grimmett, David R. Stirzaker
 - **Understanding Probability** (3rd edition) by Henk Tijms
 - **Probability Theory: The Logic of Science** by E. T. Jaynes
+- **A Course in Probability Theory** by Kai Lai Chung
 - **The Seven Pillar of Statistical Wisdom** by Stephen M. Stigler
+- **从掷骰子到阿尔法狗：趣谈概率**，张天蓉著
 - **机会的数学：统计学入门**，陈希孺著
 - **概率论与数理统计**，陈希孺著
 - **大数据时代的统计思想**，李勇著
@@ -68,3 +72,4 @@ The detailed schedule will be updated later.
 - [Probability and Statistics (Fall 2023)](http://www.lamda.nju.edu.cn/zhangsq/teaching/PS_Fall_2023/PS_Fall_2023.html) by [Prof. Shaoqun Zhang](http://www.lamda.nju.edu.cn/zhangsq/)
 - [Probability Theory and Mathematical Statistics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
 - [Advanced Algorithms (Fall 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/), [Prof. Shi Li](https://tcs.nju.edu.cn/shili/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
+- [Probability and Measure](https://www.youtube.com/playlist?list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE) by [Prof. Adam B. Kashlak](https://sites.ualberta.ca/~kashlak/)
