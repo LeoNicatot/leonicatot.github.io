@@ -46,10 +46,10 @@ Besides, we might also cover some topics beyond these 7 chapters:
 
 The detailed schedule will be updated later.
 
-| Topics                                     | Time | Speaker | Material                                                |
-| ------------------------------------------ | ---- | ------- | ------------------------------------------------------- |
-| Introduction to Probability and Statistics | TBD  | TBD     | slides([pdf](), [html]())<br />notes([pdf](), [html]()) |
-|                                            |      |         |                                                         |
+| Topics                      | Time      | Speaker     | Material                                                     |
+| --------------------------- | --------- | ----------- | ------------------------------------------------------------ |
+| Introduction to Probability | 2023/9/21 | Runshuo Xie | [L1 Introduction to Probability](/assets/pdf/2023Prob/L1 Introduction to Probability.pdf) |
+|                             |           |             |                                                              |
 
 #### Reference
 
