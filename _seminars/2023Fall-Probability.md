@@ -34,7 +34,7 @@ Besides, we might also cover some topics beyond these 7 chapters:
 - Probability Theory
   - Continuous Random Variable
   - Law of Large Number & Central Limit Theorem
-  - Concentration of Measurement
+  - Concentration of Measure
 - Statistics
   - Parameter Estimation
   - Hypothesis Testing
@@ -46,39 +46,45 @@ Besides, we might also cover some topics beyond these 7 chapters:
 
 The detailed schedule will be updated later.
 
-| Topics                      | Time      | Speaker     | Material                                                     |
-| --------------------------- | --------- | ----------- | ------------------------------------------------------------ |
-| Introduction to Probability | 2023/9/21 | Runshuo Xie | [L1 Introduction to Probability](/assets/pdf/2023Prob/L1 Introduction to Probability.pdf) |
-|                             |           |             |                                                              |
+| Topics                      | Time       | Speaker     | Material                                                     |
+| --------------------------- | ---------- | ----------- | ------------------------------------------------------------ |
+| Introduction to Probability | 2023/9/21  | Runshuo Xie | [L1 Introduction to Probability](/assets/pdf/2023Prob/L1 Introduction to Probability.pdf) |
+| Random Variable             | 2023/10/12 | Runshuo Xie | [Prerequisite for L2](/assets/pdf/2023Prob/Prerequisite for L2.pdf) <br /> [Prerequisite for L2 (with notes)](/assets/pdf/2023Prob/Prerequisite for L2 (with notes).pdf) |
 
-#### Reference
+<br>
 
-Here are all materials that I’ve referred when I was preparing for the seminar.
+### Reference
 
-##### Books
+Here are all materials that I’ve referred to when I was preparing for the seminar.
+
+#### Books
+
+##### Textbook of Probability and Statistics
 
 - **Probability and Random Processes** (4th edition) by Geoffrey R. Grimmett, David R. Stirzaker
 - **Understanding Probability** (3rd edition) by Henk Tijms
-- **Probability Theory: The Logic of Science** by E. T. Jaynes
+- **Elementary Probability Theory With Stochastic Processes and an Introduction to Mathematical Finance** by K. L. Chung, Farid AitSahlia<br>This is a really unique and fantastic book on probability, which is friendly enough to novice.
 - **A Course in Probability Theory** by Kai Lai Chung
-- **The Seven Pillar of Statistical Wisdom** by Stephen M. Stigler
+- **Probability Theory: The Logic of Science** by E. T. Jaynes
+- **概率论与数理统计**，陈希孺著
+
+##### Computer Science
+
 - **Randomized Algorithms** by Rajeev Motwani, Prabhakar Raghavan
+- **Concrete Mathmatics** by Ronald L. Graham, Donald E. Knuth, Oren Patashnik
+
+##### Others
+
+- **The Seven Pillar of Statistical Wisdom** by Stephen M. Stigler
 - **从博弈问题到方法论学科——概率论发展史研究**，徐传胜著
 - **从掷骰子到阿尔法狗：趣谈概率**，张天蓉著
 - **机会的数学：统计学入门**，陈希孺著
-- **概率论与数理统计**，陈希孺著
 - **大数据时代的统计思想**，李勇著
 
-##### Courses
+#### Courses
 
 - [Probability and Statistics (Fall 2023)](http://www.lamda.nju.edu.cn/zhangsq/teaching/PS_Fall_2023/PS_Fall_2023.html) by [Prof. Shaoqun Zhang](http://www.lamda.nju.edu.cn/zhangsq/)
-
 - [Probability Theory and Mathematical Statistics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
-
 - [Advanced Algorithms (Fall 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/), [Prof. Shi Li](https://tcs.nju.edu.cn/shili/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
-
-- [Combinatorics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=组合数学_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/)
-
-  A great deal of my slides come from Prof. Yitong Yin's slides.
-
+- [Combinatorics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=组合数学_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/)<br>Many contents including the style of my slides come from Prof. Yitong Yin's slides.
 - [Probability and Measure](https://www.youtube.com/playlist?list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE) by [Prof. Adam B. Kashlak](https://sites.ualberta.ca/~kashlak/)
