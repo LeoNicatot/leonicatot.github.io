@@ -48,8 +48,8 @@ The detailed schedule will be updated later.
 
 | Topics                      | Time       | Speaker     | Material                                                     |
 | --------------------------- | ---------- | ----------- | ------------------------------------------------------------ |
-| Introduction to Probability | 2023/9/21  | Runshuo Xie | [L1 Introduction to Probability](/assets/pdf/2023Prob/L1 Introduction to Probability.pdf) |
-| Random Variable             | 2023/10/12 | Runshuo Xie | [Prerequisite for L2](/assets/pdf/2023Prob/Prerequisite for L2.pdf) <br /> [Prerequisite for L2 (with notes)](/assets/pdf/2023Prob/Prerequisite for L2 (with notes).pdf) |
+| Introduction to Probability | 2023/9/21  | Runshuo Xie | [slides](/assets/pdf/2023Prob/L1 slides.pdf)                 |
+| Random Variable             | 2023/10/12 | Runshuo Xie | [Prerequisite for L2](/assets/pdf/2023Prob/Prerequisite for L2.pdf) <br /> [Prerequisite for L2 (with notes)](/assets/pdf/2023Prob/Prerequisite for L2 (with notes).pdf)<br /> [handout](/assets/pdf/2023Prob/L2 handout.pdf)<br /> [handout (with note)](/assets/pdf/2023Prob/L2 handout (with note).pdf) |
 
 <br>
 
