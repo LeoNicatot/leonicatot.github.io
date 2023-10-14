@@ -4,7 +4,6 @@ permalink: /seminars/
 title: Seminars
 description: 
 nav: true
-nav_order: 5
 ---
 
 I LOVE SEMINARS! It is more flexible than taking courses with so many students (since you can interact more with the speaker and listeners), while it is more inspiring than studying alone (after all, human beings are *lazy* creatures, especially me).
