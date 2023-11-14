@@ -69,7 +69,7 @@ Here are all materials that I’ve referred to when I was preparing for the semi
 - **Probability Theory: The Logic of Science** by E. T. Jaynes
 - **概率论与数理统计**，陈希孺著
 
-##### Computer Science
+##### Textbook of Computer Science
 
 - **Randomized Algorithms** by Rajeev Motwani, Prabhakar Raghavan
 - **Concrete Mathmatics** by Ronald L. Graham, Donald E. Knuth, Oren Patashnik
