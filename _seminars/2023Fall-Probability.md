@@ -74,6 +74,7 @@ Here are all materials that I’ve referred to when I was preparing for the semi
 
 - **Randomized Algorithms** by Rajeev Motwani, Prabhakar Raghavan
 - **Concrete Mathmatics** by Ronald L. Graham, Donald E. Knuth, Oren Patashnik
+- **Concentration of Measure for the Analysis of Randomized Algorithms** by Devdatt P. Dubhashi, Alessandro Panconesi
 
 ##### Others
 
