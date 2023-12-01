@@ -52,6 +52,7 @@ The detailed schedule will be updated later.
 | Random Variable                          | 2023/10/12 | Runshuo Xie                                                  | [Prerequisite for L2](/assets/pdf/2023Prob/Prerequisite for L2.pdf) <br /> [Prerequisite for L2 (with notes)](/assets/pdf/2023Prob/Prerequisite for L2 (with notes).pdf)<br /> [handout](/assets/pdf/2023Prob/L2 handout.pdf)<br /> [handout (with notes)](/assets/pdf/2023Prob/L2 handout (with notes).pdf)<br /> [slides](/assets/pdf/2023Prob/L2 slides.pdf) |
 | Presentations on different distributions | 2023/10/19 | Yifan Lü<br />Yao Luo<br />Jiutao Mao & Xiang  Jiang<br />Zhijie Pan<br />Shide Liang<br />Yingming He | [二项分布【吕一帆】](/assets/pdf/2023Prob/Presentation/二项分布【吕一帆】.pptx) <br /> [几何分布【罗耀】](/assets/pdf/2023Prob/Presentation/几何分布【罗耀】.pptx) <br /> [泊松分布【毛九弢】](/assets/pdf/2023Prob/Presentation/泊松分布【毛九弢】.pptx)   [泊松分布的应用【蒋庠】](/assets/pdf/2023Prob/Presentation/泊松分布的应用【蒋庠】.pdf) <br /> [指数分布的应用【潘智杰】](/assets/pdf/2023Prob/Presentation/指数分布的应用【潘智杰】.pptx) <br /> [Normal Distribution【梁世徳】](/assets/pdf/2023Prob/Presentation/Normal Distribution【梁世徳】.pptx)<br /> [二项分布【贺英明】](/assets/pdf/2023Prob/Presentation/二项分布【贺英明】.pdf)(2023/11/16) |
 | Tail Inequalities                        | 2023/11/16 | Runshuo Xie                                                  | [slides](/assets/pdf/2023Prob/L3 slides.pdf)<br /> [handout](/assets/pdf/2023Prob/L3 handout.pdf)<br /> [handout (with notes)](/assets/pdf/2023Prob/L3 handout (with notes).pdf) |
+| Introduction to Statistical Inference    | 2023/11/30 | Runshuo Xie                                                  | [slides](/assets/pdf/2023Prob/L4 slides.pdf)                 |
 
 <br>
 
@@ -91,3 +92,9 @@ Here are all materials that I’ve referred to when I was preparing for the semi
 - [Advanced Algorithms (Fall 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/), [Prof. Shi Li](https://tcs.nju.edu.cn/shili/) and [Prof. Jingcheng Liu](https://liuexp.github.io/)
 - [Combinatorics (Spring 2023)](https://tcs.nju.edu.cn/wiki/index.php?title=组合数学_(Spring_2023)) by [Prof. Yitong Yin](http://tcs.nju.edu.cn/yinyt/)<br>Many contents including the style of my slides come from Prof. Yitong Yin's slides.
 - [Probability and Measure](https://www.youtube.com/playlist?list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE) by [Prof. Adam B. Kashlak](https://sites.ualberta.ca/~kashlak/)
+- [MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by Prof. John Tsitsiklis
+- [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) by Prof. Philippe Rigollet
+
+#### Websites
+
+- [Statistics By Jim](https://statisticsbyjim.com/)
