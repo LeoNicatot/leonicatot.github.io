@@ -53,6 +53,7 @@ The detailed schedule will be updated later.
 | Presentations on different distributions | 2023/10/19 | Yifan Lü<br />Yao Luo<br />Jiutao Mao & Xiang  Jiang<br />Zhijie Pan<br />Shide Liang<br />Yingming He | [二项分布【吕一帆】](/assets/pdf/2023Prob/Presentation/二项分布【吕一帆】.pptx) <br /> [几何分布【罗耀】](/assets/pdf/2023Prob/Presentation/几何分布【罗耀】.pptx) <br /> [泊松分布【毛九弢】](/assets/pdf/2023Prob/Presentation/泊松分布【毛九弢】.pptx)   [泊松分布的应用【蒋庠】](/assets/pdf/2023Prob/Presentation/泊松分布的应用【蒋庠】.pdf) <br /> [指数分布的应用【潘智杰】](/assets/pdf/2023Prob/Presentation/指数分布的应用【潘智杰】.pptx) <br /> [Normal Distribution【梁世徳】](/assets/pdf/2023Prob/Presentation/Normal Distribution【梁世徳】.pptx)<br /> [二项分布【贺英明】](/assets/pdf/2023Prob/Presentation/二项分布【贺英明】.pdf)(2023/11/16) |
 | Tail Inequalities                        | 2023/11/16 | Runshuo Xie                                                  | [slides](/assets/pdf/2023Prob/L3 slides.pdf)<br /> [handout](/assets/pdf/2023Prob/L3 handout.pdf)<br /> [handout (with notes)](/assets/pdf/2023Prob/L3 handout (with notes).pdf) |
 | Introduction to Statistical Inference    | 2023/11/30 | Runshuo Xie                                                  | [slides](/assets/pdf/2023Prob/L4 slides.pdf)                 |
+| Introduction to Markov Chain    | 2023/12/21 | Runshuo Xie                                                  | [slides](/assets/pdf/2023Prob/L5 slides.pdf)                 |
 
 <br>
 
@@ -94,6 +95,7 @@ Here are all materials that I’ve referred to when I was preparing for the semi
 - [Probability and Measure](https://www.youtube.com/playlist?list=PL0vEWJI_pj7RZ51zecINlzWxpFv83r8RE) by [Prof. Adam B. Kashlak](https://sites.ualberta.ca/~kashlak/)
 - [MIT 6.041 Probabilistic Systems Analysis and Applied Probability, Fall 2010](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) by Prof. John Tsitsiklis
 - [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) by Prof. Philippe Rigollet
+- [MATH2750 Introduction to Markov Processes](https://mpaldridge.github.io/math2750/) by Prof. Matthew Aldridge
 
 #### Websites
 
