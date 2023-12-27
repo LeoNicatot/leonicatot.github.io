@@ -3,7 +3,6 @@ layout: page
 permalink: /intro/tape
 title: Tape
 giscus_comments: true
-nav: true
 ---
 
 以下为tape时期的部分问答（2021～2022，仅保留比较有意义和比较长的问答）：

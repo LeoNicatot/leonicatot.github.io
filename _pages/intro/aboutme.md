@@ -2,8 +2,7 @@
 layout: distill
 permalink: /intro/aboutme
 title: Introduction
-giscus_comments: true
-nav: true
+giscus_comments: trued
 date: 2023-08-27
 authors:
   - name: Leo Nicatot
