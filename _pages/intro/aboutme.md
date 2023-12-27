@@ -1,6 +1,6 @@
 ---
 layout: distill
-permalink: /intro/
+permalink: /intro/aboutme
 title: Introduction
 giscus_comments: true
 nav: true
@@ -59,4 +59,3 @@ The first chapter of *Intimate Relationships* by *Rowland S. Miller* taught me t
 In 2018, I joined the Chorus of SYSU (East Campus) led by Li Zheng<d-footnote>We all call him 冷爷. He is now the associated director and chief bass of Shanghai Rainbow Chamber Singers. He is a fabulous and passionate conductor.</d-footnote>. In this chorus, I was initiated to chorus and vocal music. Before that, I had learned some violin, so I had been equipped with some basic music theory and musicality. 
 
 I spent one and a half years in this chorus. I met a lot of friends here, I experienced a lot here, and I learned a lot here. This experience made me realize that I enjoy working in a group rather than independently. The interaction, the cooperation, …, these are all amazing things that enrich my life. Therefore, I’m looking for communities, groups, or teams from time to time. And that’s why I love studying seminars — learning with a group can better motivate me and bring me more joy.
-
