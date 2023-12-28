@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /intro/tape
-title: Tape
+permalink: /aboutme/tape
+title: Tape(2021~2022)
 giscus_comments: true
 ---
 

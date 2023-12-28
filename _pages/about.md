@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Homepage
 permalink: /
 subtitle: 
 
@@ -27,6 +27,6 @@ Besides computer science, Nicatot is an **ominivorous** guy. He is interested in
 
 Nicatot loves working in a team. Working in a *comfortable*, *passionate*, *strongly-connected* team where *everyone trusts each other*, is what Nicatot prefers, rather than working on something with high salary but with pain and frustration. If you’re interested in organizing a team to aim for something interesting or important, you’re welcomed to find Nicatot to do it together.
 
-If you want to know more about Nicatot, check out [this page](/intro).
+If you want to know more about Nicatot, check out [this page](/aboutme/).
 
 If you want to know about the discussion seminars (讨论班) in Suzhou Campus of NJU, check out [this page](/seminars).
