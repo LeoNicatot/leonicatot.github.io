@@ -1,8 +1,7 @@
 {
   "basics": {
     "name": "Leo Nicatot",
-    "label": "CS Graduate Studdent",
-    "email": "xiersh@smail.nju.edu.cn",
+    "label": "CS Master Studdent",
     "url": "https://leonicatot.github.io/",
     "summary": "A CS Student who loves 搞事情"
   },
@@ -27,41 +26,34 @@
   "skills": [],
   "languages": [
     {
-      "language": ["Mandarin(Chinese), Teochew Dialect(Southern Min, Chinese)"],
+      "language": ["Mandarin (Chinese)"],
       "fluency": "Native speaker"
     },
     {
-      "language": ["Cantonese(Chinese), English"],
+      "language": ["Teochew Dialect (Southern Min, Chinese)"],
+      "fluency": "Native speaker"
+    },
+    {
+      "language": ["Cantonese (Chinese)"],
+      "fluency": "Fluent"
+    },
+    {
+      "language": ["English"],
       "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Linguistics (espeically Phonetics)", 
+      "name": "Languages", 
       "keywords": [
-        "Learning new languages/dialects", 
+        "Learn new languages/dialects", 
         "Learn IPA(International Phonetics Alphabet)"
       ]
     }, 
     {
-      "name": "Chorus", 
-      "keywords": ""
-    }, 
-    {
       "name": "Reading", 
       "keywords": [
-        "Psychology", 
-        "..."
-      ]
-    }, 
-    {
-      "name": "Chat/Discussion", 
-      "keywords": [
-        "Intimate Relationship", 
-        "the Future", 
-        "Interests", 
-        "Having Fun", 
-        "..."
+        "Almost everything"
       ]
     }
   ],

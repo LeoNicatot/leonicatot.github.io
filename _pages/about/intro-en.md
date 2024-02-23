@@ -1,6 +1,6 @@
 ---
 layout: distill
-permalink: /aboutme/intro
+permalink: /about/intro-en
 title: Introduction
 giscus_comments: trued
 date: 2023-08-27

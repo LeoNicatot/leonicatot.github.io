@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /seminars/
-title: Seminars
+title: 讨论班
 description: 
 nav: true
 ---
 
-I LOVE SEMINARS! It is more flexible than taking courses with so many students (since you can interact more with the speaker and listeners), while it is more inspiring than studying alone (after all, human beings are *lazy* creatures, especially me).
+从2023年秋季学期开始，我们想开始在苏州校区尝试搞些讨论班，主要原因有以下几点：
 
-In order to do interesting research, which is our tenet, we need to learn some hardcore knowledge, especially **beautiful** and **general** theories. In our future seminars, we might learn *Probability*, *Advanced Algorithms*, *Program Analysis*, *Theory of Programming Languages*, *Combinatorics*, *Computational Complexity*, *etc*.
+1. 学院的课程不够丰富，比较缺乏理论课程
+2. 自学的氛围没有一群人学来得好，也缺少了和大家进行思想碰撞的机会
+3. ~~大家一起搞事情不是很好玩吗？~~<br>我一直觉得搞团体学习是件很好玩的事情，而且能激发大家的创造性（参见[知乎回答](https://www.zhihu.com/question/26578272/answer/2626811849)）。如果学习只是坐在教室里听讲做作业考试卷GPA，那就太没意思了（虽然那些乖乖的学霸们不一定这么想，毕竟在这套游戏规则里他们可是大赢家）。
 
-From Spet. 2023, Professor Niu will start hosting a series of **discussion seminars** in Suzhou Campus. Since these seminars are *experimental* and *immature*, they are currently open to members in our group only. After these seminars getting matured (probably in 2 to 3 years), they will gradually be open to everyone.
+目前讨论班的组织还处于试验阶段（第一次的概率论讨论班就搞得不太好），之后会不断尝试改进。我自己比较希望搞出活跃，而且能有比较多思想碰撞的讨论班，这样会很好玩。如果大家有什么好的想法，欢迎来找我聊聊～
+
+#### 往届讨论班
 
 - [Probability and Statistics (Fall 2023)](/seminars/2023Fall-Probability/)
