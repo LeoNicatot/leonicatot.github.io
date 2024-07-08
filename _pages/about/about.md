@@ -63,3 +63,4 @@ nav: true
 
 - [Tape提问箱存档(2021~2022)](/about/tape)
 - [一个简短的英文自我介绍](/about/intro-en)
+- [我觉得有趣的文章/书籍/公众号/视频/……](/about/share)
