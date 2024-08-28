@@ -5,8 +5,6 @@ title: 课程
 nav: true
 ---
 
-[English version](/courses-en/)👈
-
 ### 担任过助教的课程
 
 - [2023秋季 智软院 数据结构与算法](https://niuxintao.github.io/courses/2023Fall-DS)
