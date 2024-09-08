@@ -16,7 +16,7 @@ nav: true
 
 #### 学术讨论班
 
-- [软件测试与编译优化 (Fall 2024)](http://niuxintao.github.io/2024Fall-Seminar/)<br>软件测试+编译优化=编译优化测试
+- [软件测试与编译优化 (Fall 2024)](https://niuxintao.github.io/courses/2024Fall-Seminar/)<br>软件测试+编译优化=编译优化测试
 
 #### 往届讨论班
 
