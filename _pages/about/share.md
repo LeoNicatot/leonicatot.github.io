@@ -17,8 +17,6 @@ permalink: /about/share
 
 - [我们为什么对考试这么痴狂？内卷的本质与破局](https://www.bilibili.com/video/BV1Gi421i7mJ)
 
-  <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1455595436&bvid=BV1Gi421i7mJ&cid=1573913869&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
 ---
 
 #### 语言
@@ -27,23 +25,21 @@ permalink: /about/share
 
 - Youtube：[Fluent Forever](https://www.youtube.com/@FluentForeverApp)<br/>Gabriel Wyner做的一系列各种语言的IPA视频质量大部分都非常不错
 - Bilibili：[polyhedron古韻](https://space.bilibili.com/3957493)<br/>
-  我对严实博士的国际音标教程比较感兴趣（但似乎弃坑了），中古汉语语音的话目前还没什么兴趣
+  我对严实博士的国际音标教程比较感兴趣，不过中古汉语语音的话目前还没什么兴趣
 
-<br>
+<br/>
 
 ##### 视频
 
 - [Why native English speakers can't speak English!](https://youtu.be/Dt1VU_oyjcw?feature=shared) by [John Zimmer](https://www.youtube.com/@JohnZimmer-MannerofSpeaking)
-
-  <iframe width="320" height="180" src="https://www.youtube.com/embed/Dt1VU_oyjcw?si=IugpkJRhdasyKu_V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - IPA (International Phonetic Alphabet) Tutorial by [polýMATHY](https://www.youtube.com/@polyMATHY_Luke)
+  - [Vowels](https://youtu.be/tpR5GdKXpGc)
+  - [Consonants](https://youtu.be/olM1mm66YPw)
 
-<center><iframe width="320" height="180" src="https://www.youtube.com/embed/tpR5GdKXpGc?si=clQFjzzZWM0fAccs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>&emsp;&emsp;<iframe width="320" height="180" src="https://www.youtube.com/embed/olM1mm66YPw?si=HI6ZmFpGo52jw956" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 - ……
 
-<br>
+<br/>
 
 ##### 书籍
 
@@ -59,8 +55,29 @@ permalink: /about/share
 - 微信公众号：返朴
 - 微信公众号：知识分子
 
-<br>
+<br/>
 
 ##### 文章
 
 - [Fifty years of P vs. NP and the possibility of the impossible](https://dl.acm.org/doi/abs/10.1145/3460351) [中文版](https://mp.weixin.qq.com/s/GMvRb9pI1gFGYWEG5xcxyw)
+
+---
+#### MBTI
+
+原本想着把MBTI放到【自我发展】目录下，但是感觉MBTI内容可能会太多了，不如就单独拎出来
+
+##### 频道
+
+- Bilibili：[狐狸刷刷的类型学](https://space.bilibili.com/1869592347)
+- Bilibili：[骨哥说](https://space.bilibili.com/1512455827)
+
+<br/>
+
+##### 视频
+
+- 狐狸刷刷的类型学
+  - [【MBTI】为什么人会有I和E之分(内外向)](https://www.bilibili.com/video/BV1gY4y1G7HS/)
+  - [【MBTI】为什么人会有S和N之分(实感和直觉)](https://www.bilibili.com/video/BV1St4y1H7bm/)
+  - [【MBTI必看】T 和 F 到底啥区别丨没启发来揍我 (??)](https://www.bilibili.com/video/BV1Ur4y1u77B) 
+  - [【MBTI测试】最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)
+  - [MBTI真相，99.99%的人都不知道……拜托来看看！（声嘶力竭）](https://www.bilibili.com/video/BV1jB4y1U7B4)
