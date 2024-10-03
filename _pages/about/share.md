@@ -73,11 +73,68 @@ permalink: /about/share
 
 <br/>
 
-##### 视频
+##### 视频(持续更新中)
 
-- 狐狸刷刷的类型学
-  - [【MBTI】为什么人会有I和E之分(内外向)](https://www.bilibili.com/video/BV1gY4y1G7HS/)
-  - [【MBTI】为什么人会有S和N之分(实感和直觉)](https://www.bilibili.com/video/BV1St4y1H7bm/)
-  - [【MBTI必看】T 和 F 到底啥区别丨没启发来揍我 (??)](https://www.bilibili.com/video/BV1Ur4y1u77B) 
-  - [【MBTI测试】最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)
+- 入坑MBTI前了解
+  - [MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
+  - [也许你一直误解了MBTI——荣格与科学的“试管婴儿”](https://www.bilibili.com/video/BV1kR4y1C7zo)
   - [MBTI真相，99.99%的人都不知道……拜托来看看！（声嘶力竭）](https://www.bilibili.com/video/BV1jB4y1U7B4)
+  
+- 四个维度的介绍
+
+  | 维度 | 视频                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | I/E  | [为什么人会有I和E之分(内外向)](https://www.bilibili.com/video/BV1gY4y1G7HS/) |
+  | S/N  | [为什么人会有S和N之分(实感和直觉)](https://www.bilibili.com/video/BV1St4y1H7bm/) |
+  | T/F  | [T 和 F 到底啥区别丨没启发来揍我 (??)](https://www.bilibili.com/video/BV1Ur4y1u77B) |
+  | J/P  | [最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)<br />[最简洁清晰的J-P维度和荣格八维关系讲解](https://www.bilibili.com/video/BV1Le4y187tT) |
+
+- 16型人格
+
+  | 类型 | 视频                                                         |
+  | ---- | ------------------------------------------------------------ |
+  | INTP |                                                              |
+  | INFP | [INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
+  | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK) [2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K) |
+  | INFJ | [INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727) |
+  | ISTP |                                                              |
+  | ISFP |                                                              |
+  | ISTJ |                                                              |
+  | ISFJ | [欢迎登陆ISFJ号飞船: 我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t) |
+  | ENTP | [ENTP “跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
+  | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp) [2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
+  | ENTJ |                                                              |
+  | ENFJ |                                                              |
+  | ESTP | [ESTP全方位专业人格分析（含ESFP）](https://www.bilibili.com/video/BV1Vj41187Kx) |
+  | ESFP | [ESFP全方位专业人格分析+四维度全反的INTJ对比](https://www.bilibili.com/video/BV1NG41147mH) |
+  | ESTJ |                                                              |
+  | ESFJ |                                                              |
+
+- 8个认知过程
+
+  | 认知过程 | 视频                                                         |
+  | -------- | ------------------------------------------------------------ |
+  | Ni       | [Ni演变历史-INTJ和INFJ曾经被认为是最没用的人？](https://www.bilibili.com/video/BV1uD421N7L9) |
+  | Ne       | [【ENTP+ENFP】Ne在经典著作里的描述和刻板印象大不同](https://www.bilibili.com/video/BV1KZ421u7wd) |
+  | Si       |                                                              |
+  | Se       |                                                              |
+  | Ti       |                                                              |
+  | Te       | [来，钻进TJ类型的脑子里丨Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW) |
+  | Fi       | [【INFP+ISFP】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
+  | Fe       |                                                              |
+
+- 相似类型对比
+
+  | 类型        | 视频                                                         |
+  | ----------- | ------------------------------------------------------------ |
+  | INTP & INTJ | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU) |
+  | ISFJ & INFJ | [被低估的ISFJ & 被误解的INFJ](https://www.bilibili.com/video/BV1ev4y1R7kM) |
+  |             |                                                              |
+  |             |                                                              |
+  |             |                                                              |
+  |             |                                                              |
+  |             |                                                              |
+
+- 其它
+
+  - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
