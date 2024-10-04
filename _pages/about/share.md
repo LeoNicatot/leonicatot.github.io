@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: page
 title: 分享
 permalink: /about/share
 ---
 
 在这里分享一些我觉得有趣的东西：
+
+---
 
 #### 人生
 
@@ -27,8 +29,6 @@ permalink: /about/share
 - Bilibili：[polyhedron古韻](https://space.bilibili.com/3957493)<br/>
   我对严实博士的国际音标教程比较感兴趣，不过中古汉语语音的话目前还没什么兴趣
 
-<br/>
-
 ##### 视频
 
 - [Why native English speakers can't speak English!](https://youtu.be/Dt1VU_oyjcw?feature=shared) by [John Zimmer](https://www.youtube.com/@JohnZimmer-MannerofSpeaking)
@@ -38,8 +38,6 @@ permalink: /about/share
 
 
 - ……
-
-<br/>
 
 ##### 书籍
 
@@ -55,8 +53,6 @@ permalink: /about/share
 - 微信公众号：返朴
 - 微信公众号：知识分子
 
-<br/>
-
 ##### 文章
 
 - [Fifty years of P vs. NP and the possibility of the impossible](https://dl.acm.org/doi/abs/10.1145/3460351) [中文版](https://mp.weixin.qq.com/s/GMvRb9pI1gFGYWEG5xcxyw)
@@ -71,9 +67,7 @@ permalink: /about/share
 - Bilibili：[狐狸刷刷的类型学](https://space.bilibili.com/1869592347)
 - Bilibili：[骨哥说](https://space.bilibili.com/1512455827)
 
-<br/>
-
-##### 视频(持续更新中)
+##### 视频 (持续更新中)
 
 - 入坑MBTI前了解
   - [MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
@@ -89,26 +83,30 @@ permalink: /about/share
   | T/F  | [T 和 F 到底啥区别丨没启发来揍我 (??)](https://www.bilibili.com/video/BV1Ur4y1u77B) |
   | J/P  | [最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)<br />[最简洁清晰的J-P维度和荣格八维关系讲解](https://www.bilibili.com/video/BV1Le4y187tT) |
 
+  <br/>
+
 - 16型人格
 
   | 类型 | 视频                                                         |
   | ---- | ------------------------------------------------------------ |
   | INTP |                                                              |
   | INFP | [INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
-  | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK) [2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K) |
+  | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K) |
   | INFJ | [INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727) |
   | ISTP |                                                              |
   | ISFP |                                                              |
   | ISTJ |                                                              |
   | ISFJ | [欢迎登陆ISFJ号飞船: 我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t) |
   | ENTP | [ENTP “跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
-  | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp) [2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
+  | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp)<br />[2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
   | ENTJ |                                                              |
   | ENFJ |                                                              |
   | ESTP | [ESTP全方位专业人格分析（含ESFP）](https://www.bilibili.com/video/BV1Vj41187Kx) |
   | ESFP | [ESFP全方位专业人格分析+四维度全反的INTJ对比](https://www.bilibili.com/video/BV1NG41147mH) |
   | ESTJ |                                                              |
   | ESFJ |                                                              |
+
+  <br/>
 
 - 8个认知过程
 
@@ -123,6 +121,8 @@ permalink: /about/share
   | Fi       | [【INFP+ISFP】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
   | Fe       |                                                              |
 
+  <br/>
+
 - 相似类型对比
 
   | 类型        | 视频                                                         |
@@ -134,6 +134,8 @@ permalink: /about/share
   |             |                                                              |
   |             |                                                              |
   |             |                                                              |
+
+  <br/>
 
 - 其它
 
