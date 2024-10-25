@@ -84,7 +84,6 @@ permalink: /about/share
   <br/>
 
 - 荣格八维
-
   - [MBTI荣格八维模型中的「原型」概念你接受吗？](https://www.bilibili.com/video/BV1G841177h8)
   - [MBTI荣格八维阴影功能详解｜告诉你五六功能为何爆表](https://www.bilibili.com/video/BV1z84y1C7i6)
   
@@ -104,7 +103,6 @@ permalink: /about/share
   <br/>
 
 - 双高
-
   - [Ni和Ne可以双高吗？INTJ/INFJ/ENTP/ENFP的根本冲突](https://www.bilibili.com/video/BV1GV4y167zu)
   - [INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清](INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清)
 
@@ -112,10 +110,10 @@ permalink: /about/share
 
   | 类型 | 视频                                                         |
   | ---- | ------------------------------------------------------------ |
-  | INTP |                                                              |
+  | INTP | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU)<br />[INTP的「社恐」与「情绪」（含INTJ对比）](https://www.bilibili.com/video/BV1G841197P5) |
   | INFP | [INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
-  | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K) |
-  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared) |
+  | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
+  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
   | ISTP |                                                              |
   | ISFP |                                                              |
   | ISTJ |                                                              |
@@ -146,9 +144,12 @@ permalink: /about/share
   <br/>
 
 - 16型人格杂项
-
   - [会把MBTI十六型人格逼疯的工作](https://www.bilibili.com/video/BV1M14y1V71F)
 
 - 其它
-
   - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
+
+##### 文献
+
+- [Forty years of research on personality in software engineering: A mapping study](https://doi.org/10.1016/j.chb.2014.12.008)
+- [Personality types in software engineering](https://doi.org/10.1016/S1071-5819(02)00137-4)
