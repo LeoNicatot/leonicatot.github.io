@@ -80,7 +80,7 @@ permalink: /about/share/mbti
   | ISFJ | [欢迎登陆ISFJ号飞船: 我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t) |
   | ENTP | [ENTP “跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[ENTP小恶魔确实有理论依据？（含镜像人格概念）](https://www.bilibili.com/video/BV1w24y1D7Yq)<br />[ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
   | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp)<br />[2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
-  | ENTJ |                                                              |
+  | ENTJ | [ENTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV13M411N7Dy)<br />[经济环境恶劣，我身边的ENTJ卷王们都卷不动了](https://www.bilibili.com/video/BV1EN4y1y75g) |
   | ENFJ | [ENFJ全方位专业人格分析｜助人为了自己乐？](https://www.bilibili.com/video/BV1kd4y1x7sz) |
   | ESTP | [ESTP全方位专业人格分析（含ESFP）](https://www.bilibili.com/video/BV1Vj41187Kx) |
   | ESFP | [ESFP全方位专业人格分析+四维度全反的INTJ对比](https://www.bilibili.com/video/BV1NG41147mH) |
