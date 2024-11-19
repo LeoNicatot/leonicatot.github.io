@@ -62,4 +62,4 @@ permalink: /about/share
 #### 其它
 
 - [MBTI与荣格八维](/about/share/mbti)
-- [我收藏的学术视频](/about/share/academic)
+- [我收藏的学术资料](/about/share/academic)
