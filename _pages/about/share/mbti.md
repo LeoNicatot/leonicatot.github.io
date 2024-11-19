@@ -38,7 +38,7 @@ permalink: /about/share/mbti
   | Ni            | [Ni演变历史-INTJ和INFJ曾经被认为是最没用的人？](https://www.bilibili.com/video/BV1uD421N7L9) |
   | Ne            | [Ne在经典著作里的描述和刻板印象大不同](https://www.bilibili.com/video/BV1KZ421u7wd)<br />[来，钻进NP类型的脑子里丨Ne大型专题](https://www.bilibili.com/video/BV1mW4y1x7Ef) |
   | Si            | [从荣格到MBTI到毕比模型，Si是怎么歪掉的](https://www.bilibili.com/video/BV1yH4y1N7HF) |
-  | Se            | [来，钻进SP类型的脑子里丨Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk) |
+  | Se            | [来，钻进SP类型的脑子里丨Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk)<br />[Se演变史-ESTP和ESFP都享乐主义？荣格说绝对不是](https://www.bilibili.com/video/BV1jJSzYTEsc) |
   | Ti            | [Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[来，钻进TP类型的脑子里丨Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T) |
   | Te            | [来，钻进TJ类型的脑子里丨Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW) |
   | Fi            | [我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
