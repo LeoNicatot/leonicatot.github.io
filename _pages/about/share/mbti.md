@@ -108,8 +108,15 @@ permalink: /about/share/mbti
 
 - 其它
   - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
+  - ["Neuroscience of Personality" by Dario Nardi at Google](https://youtu.be/MGfhQTbcqmA?feature=shared)
 
 #### 文献
 
 - [Forty years of research on personality in software engineering: A mapping study](https://doi.org/10.1016/j.chb.2014.12.008)
 - [Personality types in software engineering](https://doi.org/10.1016/S1071-5819(02)00137-4)
+
+#### 文章
+
+##### 职业选择
+
+- [Mychal Kistler's answer on "Is engineering suitable for an INFJ?" from Quora](https://qr.ae/p2joPx)
