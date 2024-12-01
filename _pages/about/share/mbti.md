@@ -15,6 +15,7 @@ permalink: /about/share/mbti
   - [MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
   - [也许你一直误解了MBTI——荣格与科学的“试管婴儿”](https://www.bilibili.com/video/BV1kR4y1C7zo)
   - [MBTI真相，99.99%的人都不知道……拜托来看看！（声嘶力竭）](https://www.bilibili.com/video/BV1jB4y1U7B4)
+  - ["MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士" by 雪力](https://www.bilibili.com/video/BV15T4y1W7Bk)
   
 - 四个维度的介绍
 
@@ -30,6 +31,7 @@ permalink: /about/share/mbti
 - 荣格八维
   - [MBTI荣格八维模型中的「原型」概念你接受吗？](https://www.bilibili.com/video/BV1G841177h8)
   - [MBTI荣格八维阴影功能详解｜告诉你五六功能为何爆表](https://www.bilibili.com/video/BV1z84y1C7i6)
+  - [INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)
   
 - 8个认知过程/类型(types)
 
@@ -73,7 +75,7 @@ permalink: /about/share/mbti
   | INTP | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU)<br />[INTP的「社恐」与「情绪」（含INTJ对比）](https://www.bilibili.com/video/BV1G841197P5) |
   | INFP | [INFP “愿望的力量”](https://www.bilibili.com/video/BV1Em4y1R7ki)<br />[INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
   | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
-  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
+  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
   | ISTP |                                                              |
   | ISFP | [ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo) |
   | ISTJ |                                                              |
@@ -106,11 +108,24 @@ permalink: /about/share/mbti
 - 16型人格杂项
   - [会把MBTI十六型人格逼疯的工作](https://www.bilibili.com/video/BV1M14y1V71F)
 
-- 其它
-  - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
+- 神经科学相关
+  
   - ["Neuroscience of Personality" by Dario Nardi at Google](https://youtu.be/MGfhQTbcqmA?feature=shared)
+  - ["Neurosciences et Typologie" by Dario Nardi](https://youtu.be/vbtE7fpUbpQ?feature=shared), in English
+  - ["MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士" by 雪力](https://www.bilibili.com/video/BV15T4y1W7Bk)
+  
+- 其它
 
-#### 文献
+  - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
+
+#### 书籍
+
+- "Neuroscience of Personality: Brain-Savvy Insights for All Types of People" by Dario Nardi
+- "Decode Your Personality: Go Beyond Myers-Briggs With 64 Brain-Based Subtypes" by Dario Nardi
+- "The Magic Diamond: Jung's 8 Paths for Self-Coaching" by Dario Nardi
+- "Teaching Tales for the 16 Personality Types" by Dario Nardi
+
+#### 论文
 
 - [Forty years of research on personality in software engineering: A mapping study](https://doi.org/10.1016/j.chb.2014.12.008)
 - [Personality types in software engineering](https://doi.org/10.1016/S1071-5819(02)00137-4)
