@@ -107,7 +107,8 @@ permalink: /about/share/mbti
 
 - 16型人格杂项
   - [会把MBTI十六型人格逼疯的工作](https://www.bilibili.com/video/BV1M14y1V71F)
-
+  - [不同专家对16人格首尾字母组合研究对比](https://www.bilibili.com/video/BV1vG41167qQ)
+  
 - 神经科学相关
   
   - ["Neuroscience of Personality" by Dario Nardi at Google](https://youtu.be/MGfhQTbcqmA?feature=shared)
