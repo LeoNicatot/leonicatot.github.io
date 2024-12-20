@@ -7,12 +7,12 @@ nav: true
 
 #### 担任过助教的课程
 
-- [2023秋季 智软院 数据结构与算法](https://niuxintao.github.io/courses/2023Fall-DS)
-- [2023春季 智软院 软件工程与计算1](https://niuxintao.github.io/courses/2023Spring-SE1)
+- [2023秋季 数据结构与算法](https://niuxintao.github.io/courses/2023Fall-DS)
+- [2023春季 软件工程与计算1](https://niuxintao.github.io/courses/2023Spring-SE1)
 
 ---
 
-#### 在计算机系听过的课程(2022.9~2024.6)
+#### 硕士期间(2022.9~2024.6)
 
 - [2024春季 机器学习研究导引](https://www.lamda.nju.edu.cn/mlt2024/) 王魏
 - [2024春季 概率论与数理统计（旁听）](https://tcs.nju.edu.cn/wiki/index.php?title=概率论与数理统计_(Spring_2024)) 尹一通 刘景铖<br>不得不说，虽然通神在上组合数学和高级算法时可能有些照顾不了初学者，但是概率论这课对初学者是非常友好的。内容的安排上，绝大部分都在讲概率论，数理统计的占比很少（~~我也没去蹭这部分的内容~~）。因为通神认为传统数理统计的东西目前用处不大，而现代数理统计直接去学统计机器学习就好了。总的来说这门课是我上过体验最好的理论课程。在我眼中，通神绝对是南大计算机系T0级别的老师。
