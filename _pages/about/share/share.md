@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 我的分享
+title: Nicatot的收藏
 permalink: /about/share
 ---
 
