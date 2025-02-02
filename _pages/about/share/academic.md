@@ -10,17 +10,23 @@ permalink: /about/share/academic
 
 ##### 视频
 
-- [[POPL 2021] PLMW: "The Lean Researcher" by Alastair Donaldson](https://www.youtube.com/watch?v=iJMvEHJ7wmA)
-- ["What My Mentors Taught Me" by Shan Lu](https://www.youtube.com/live/lOOBJix9-Dw?feature=shared&t=315) (in Chinese) [备用链接](https://www.bilibili.com/video/BV1Ta411x7xM)
-- ["Ph.D. Student Advice from a 1980s Ph.D. Student" by Prof. Mark Hill](https://www.youtube.com/watch?v=eabxuh3RZNs)
-- ["You and Your Research" by Dr. Richard W. Hamming at June 6, 1995](https://www.youtube.com/watch?v=a1zDuOPkMSw)
-- ["The Ph.D. Grind: Candid Discussions About Ph.D. Life" by Philip Guo](https://www.youtube.com/watch?v=zHp2rxR2LTc)
+- [[POPL 2021] PLMW: "The Lean Researcher"](https://www.youtube.com/watch?v=iJMvEHJ7wmA) by Alastair Donaldson
+- ["What My Mentors Taught Me"](https://www.youtube.com/live/lOOBJix9-Dw?feature=shared&t=315) by Shan Lu (in Chinese) [备用链接](https://www.bilibili.com/video/BV1Ta411x7xM)
+- ["Ph.D. Student Advice from a 1980s Ph.D. Student"](https://www.youtube.com/watch?v=eabxuh3RZNs) by Prof. Mark Hill
+- ["You and Your Research"](https://www.youtube.com/watch?v=a1zDuOPkMSw) by Dr. Richard W. Hamming at June 6, 1995
+- ["The Ph.D. Grind: Candid Discussions About Ph.D. Life"](https://www.youtube.com/watch?v=zHp2rxR2LT c) by Philip Guo
 
 #### Talk
 
+##### Writing
+
+- "How to Write a Great Research Paper" by Simon Peyton Jones [video](https://youtu.be/VK51E3gHENc) [slides](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
+- “How to write papers so that people can read them” by Derek Dreyer [video](https://youtu.be/XpgJ31GKPWI) [slides](https://people.mpi-sws.org/~dreyer/talks/talk-plmw16.pdf)
+- "Tips on writing a research paper" by Thomas W. Reps [video](https://www.pldi21.org/prerecorded_plmw.2.html) [slides](https://www.cs.wisc.edu/wpis/talks/WritingResearchPapers.pptx)
+
 ##### Architecture
 
-- [RISC-V发展态势与趋势 by 包云岗](https://www.zhihu.com/zvideo/1591586718976774144)
+- [RISC-V发展态势与趋势](https://www.zhihu.com/zvideo/1591586718976774144) by 包云岗
 - ["A New Golden Age for Computer Architecture: History, Challenges and Opportunities" by David Patterson](https://www.youtube.com/watch?v=kFT54hO1X8M)
 - ["HSC: In Computer Architecture, We Don’t Change the Questions, We Change the Answers" by Mark D. Hill](https://youtu.be/SOXiHkOGJgE?feature=shared)
 

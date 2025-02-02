@@ -9,7 +9,7 @@ permalink: /about/share/mbti
 - Bilibili：[狐狸刷刷的类型学](https://space.bilibili.com/1869592347)
 - Bilibili：[骨哥说](https://space.bilibili.com/1512455827)
 
-#### 视频 (持续更新中)
+#### 视频
 
 - 入坑MBTI前了解
   - [MBTI真的是伪科学吗？一次性总结十六型人格测试六大争议！](https://www.bilibili.com/video/BV1EZ4y117ju)
@@ -43,23 +43,23 @@ permalink: /about/share/mbti
   | Se            | [来，钻进SP类型的脑子里丨Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk)<br />[Se演变史-ESTP和ESFP都享乐主义？荣格说绝对不是](https://www.bilibili.com/video/BV1jJSzYTEsc) |
   | Ti            | [Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[来，钻进TP类型的脑子里丨Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T) |
   | Te            | [来，钻进TJ类型的脑子里丨Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW) |
-  | Fi            | [我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR) |
-  | Fe            | [来，钻进FJ类型的脑子里丨Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW) |
+  | Fi            | [我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[来，钻进FP类型的脑子里](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
+  | Fe            | [来，钻进FJ类型的脑子里丨Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW)<br />[INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
 
   <br/>
 
 - 8种原型(archetypes)
   
-  | 原型                        | 视频                                                         |
-  | --------------------------- | ------------------------------------------------------------ |
-  | 主导/英雄                   |                                                              |
-  | 辅助/父母                   |                                                              |
-  | 永恒少年(Puer/Puella)       |                                                              |
-  | 劣势/理想异性(Anima/Animus) |                                                              |
-  | 对立(Opposing)              |                                                              |
-  | 批判(Critical)/长老(Witch)  |                                                              |
-  | 盲点/小丑(Trickster)        | [16人格第七功能并不盲？小丑原型深度讲解](https://www.bilibili.com/video/BV1QK421e78S) |
-  | 恶魔(Demon)                 |                                                              |
+  | 原型                           | 视频                                                         |
+  | ------------------------------ | ------------------------------------------------------------ |
+  | 1. 主导/英雄                   |                                                              |
+  | 2. 辅助/父母                   |                                                              |
+  | 3. 永恒少年(Puer/Puella)       |                                                              |
+  | 4. 劣势/理想异性(Anima/Animus) | [Frank James \| Se在第四功能是什么样](https://www.bilibili.com/video/BV1pN4y1G7fT) |
+  | 5. 对立(Opposing)              |                                                              |
+  | 6. 批判(Critical)/长老(Witch)  |                                                              |
+  | 7. 盲点/小丑(Trickster)        | [16人格第七功能并不盲？小丑原型深度讲解](https://www.bilibili.com/video/BV1QK421e78S) |
+  | 8. 恶魔(Demon)                 |                                                              |
   
   <br/>
   
@@ -75,33 +75,55 @@ permalink: /about/share/mbti
   | INTP | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU)<br />[INTP的「社恐」与「情绪」（含INTJ对比）](https://www.bilibili.com/video/BV1G841197P5) |
   | INFP | [INFP “愿望的力量”](https://www.bilibili.com/video/BV1Em4y1R7ki)<br />[INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
   | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
-  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
-  | ISTP |                                                              |
+  | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[Frank James \| INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
+  | ISTP | [欢迎登陆ISTP号飞船：世上终究没有真正的酷哥](https://www.bilibili.com/video/BV1cT411t7eR)<br />[ISTP+INTJ+INTP八维全方位对比人格分析，谁是真正的孤勇者？](https://www.bilibili.com/video/BV18S4y1t7xM) |
   | ISFP | [ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo) |
   | ISTJ |                                                              |
   | ISFJ | [欢迎登陆ISFJ号飞船: 我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t) |
   | ENTP | [ENTP “跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[ENTP小恶魔确实有理论依据？（含镜像人格概念）](https://www.bilibili.com/video/BV1w24y1D7Yq)<br />[ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
   | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp)<br />[2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
-  | ENTJ | [ENTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV13M411N7Dy)<br />[经济环境恶劣，我身边的ENTJ卷王们都卷不动了](https://www.bilibili.com/video/BV1EN4y1y75g) |
+  | ENTJ | [ENTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV13M411N7Dy)<br />[经济环境恶劣，我身边的ENTJ卷王们都卷不动了](https://www.bilibili.com/video/BV1EN4y1y75g)<br />[ENTJ “前进的意志”](https://www.bilibili.com/video/BV1YY4y1N7pN) |
   | ENFJ | [ENFJ全方位专业人格分析｜助人为了自己乐？](https://www.bilibili.com/video/BV1kd4y1x7sz) |
   | ESTP | [ESTP全方位专业人格分析（含ESFP）](https://www.bilibili.com/video/BV1Vj41187Kx) |
   | ESFP | [ESFP全方位专业人格分析+四维度全反的INTJ对比](https://www.bilibili.com/video/BV1NG41147mH) |
-  | ESTJ |                                                              |
+  | ESTJ | [ENTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV13M411N7Dy)<br />[经济环境恶劣，我身边的ENTJ卷王们都卷不动了](https://www.bilibili.com/video/BV1EN4y1y75g) |
   | ESFJ |                                                              |
 
   <br/>
 
-- 相似类型对比
-
-  | 类型        | 视频                                                         |
+- 相似类型
+  | 类型(E/I)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
-  | INTP & INTJ | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU) |
-  | ISFJ & INFJ | [被低估的ISFJ & 被误解的INFJ](https://www.bilibili.com/video/BV1ev4y1R7kM) |
-  | INFJ & INFP | [Frank James \| INFJ vs INFP Different Struggle](https://www.bilibili.com/video/BV1di4y1C7jt) |
-  | INFJ & INTJ | [Frank James \| INTJ vs INFJ: Telling the Difference](https://www.bilibili.com/video/BV1tJ411c7jM) |
-  | ENFJ & INFJ | [INFJ vs ENFJ? How to Tell the Difference](https://www.bilibili.com/video/BV1Bv411i77t) |
-  | INFP & ISFP | [我身边没接触理论的INFP和ISFP是怎样的？](https://www.bilibili.com/video/BV1sP411h7hL) |
+  | ENTJ & INTJ | [我们习惯强悍的人设，却忘了脆弱的力量](https://www.bilibili.com/video/BV1Md1sYrEJr) |
+  | ENFJ & INFJ | [Frank James \| INFJ vs ENFJ? How to Tell the Difference](https://www.bilibili.com/video/BV1Bv411i77t) |
   |             |                                                              |
+  |             |                                                              |
+
+  <br/>
+
+  | 类型(F/T)   | 视频                                                         |
+  | ----------- | ------------------------------------------------------------ |
+  | INFJ & INTJ | [Frank James \| INTJ vs INFJ: Telling the Difference](https://www.bilibili.com/video/BV1tJ411c7jM)<br />[Frank James \| Se在第四功能是什么样](https://www.bilibili.com/video/BV1pN4y1G7fT) |
+  |             |                                                              |
+
+  <br/>
+
+  | 类型(N/S) | 视频 |
+  | ---- | ---- |
+  | ISFJ & INFJ | [被低估的ISFJ & 被误解的INFJ](https://www.bilibili.com/video/BV1ev4y1R7kM) |
+  | INFP & ISFP | [我身边没接触理论的INFP和ISFP是怎样的？](https://www.bilibili.com/video/BV1sP411h7hL) |
+  | ENFJ & ESFJ | [INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
+  |      |      |
+  |      |      |
+
+  <br/>
+  
+  | 类型(P/J) | 视频 |
+  | ---- | ---- |
+  | INFP & INFJ | [Frank James \| INFJ vs INFP Different Struggle](https://www.bilibili.com/video/BV1di4y1C7jt) |
+  | INTP & INTJ | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU) |
+  |      |      |
+  |      |      |
 
   <br/>
 
@@ -131,8 +153,6 @@ permalink: /about/share/mbti
 - [Forty years of research on personality in software engineering: A mapping study](https://doi.org/10.1016/j.chb.2014.12.008)
 - [Personality types in software engineering](https://doi.org/10.1016/S1071-5819(02)00137-4)
 
-#### 文章
+#### 文章/问答
 
-##### 职业选择
-
-- [Mychal Kistler's answer on "Is engineering suitable for an INFJ?" from Quora](https://qr.ae/p2joPx)
+- [INFP Fi主导的共情能力是怎么运作的，和INFJ Fe的共情有什么差别？ - 知乎](https://www.zhihu.com/question/380932929/answer/2220366957)
