@@ -37,11 +37,11 @@ permalink: /about/share/mbti
 
   | 认知过程/类型 | 视频                                                         |
   | ------------- | ------------------------------------------------------------ |
-  | Ni            | [Ni演变历史-INTJ和INFJ曾经被认为是最没用的人？](https://www.bilibili.com/video/BV1uD421N7L9) |
+  | Ni            | [Ni演变历史-INTJ和INFJ曾经被认为是最没用的人？](https://www.bilibili.com/video/BV1uD421N7L9)<br />[Ti和Ni真的差很远](https://www.bilibili.com/video/BV1Lz421X74t) |
   | Ne            | [Ne在经典著作里的描述和刻板印象大不同](https://www.bilibili.com/video/BV1KZ421u7wd)<br />[来，钻进NP类型的脑子里丨Ne大型专题](https://www.bilibili.com/video/BV1mW4y1x7Ef) |
   | Si            | [从荣格到MBTI到毕比模型，Si是怎么歪掉的](https://www.bilibili.com/video/BV1yH4y1N7HF) |
   | Se            | [来，钻进SP类型的脑子里丨Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk)<br />[Se演变史-ESTP和ESFP都享乐主义？荣格说绝对不是](https://www.bilibili.com/video/BV1jJSzYTEsc) |
-  | Ti            | [Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[来，钻进TP类型的脑子里丨Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T) |
+  | Ti            | [Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[来，钻进TP类型的脑子里丨Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T)<br />[Ti和Ni真的差很远](https://www.bilibili.com/video/BV1Lz421X74t) |
   | Te            | [来，钻进TJ类型的脑子里丨Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW) |
   | Fi            | [我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[来，钻进FP类型的脑子里](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
   | Fe            | [来，钻进FJ类型的脑子里丨Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW)<br />[INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
@@ -64,7 +64,6 @@ permalink: /about/share/mbti
   <br/>
   
 - 双高
-  
   - [Ni和Ne可以双高吗？INTJ/INFJ/ENTP/ENFP的根本冲突](https://www.bilibili.com/video/BV1GV4y167zu)
   - [INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清](INTP/INFP/ISTP/ISFP的Ti和Fi「双高」问题一次讲清)
   
@@ -73,12 +72,12 @@ permalink: /about/share/mbti
   | 类型 | 视频                                                         |
   | ---- | ------------------------------------------------------------ |
   | INTP | [INTP与INTJ真的相似吗？全方位人格分析两者差异！](https://www.bilibili.com/video/BV1Ur4y1g7rU)<br />[INTP的「社恐」与「情绪」（含INTJ对比）](https://www.bilibili.com/video/BV1G841197P5) |
-  | INFP | [INFP “愿望的力量”](https://www.bilibili.com/video/BV1Em4y1R7ki)<br />[INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN) |
+  | INFP | [INFP “愿望的力量”](https://www.bilibili.com/video/BV1Em4y1R7ki)<br />[INFP全方位专业人格分析（含INTJ/INFJ/INTP视角）](https://www.bilibili.com/video/BV1CZ4y1a7hN)<br />[鉴定infp网络热门memes，这图你给几分](https://www.bilibili.com/video/BV1UG4y1476r)<br />[](https://www.bilibili.com/video/BV1Az421Z757) |
   | INTJ | [1.可能是全网最专业+最诚恳的INTJ自我人格分析](https://www.bilibili.com/video/BV1Qv4y1w7qK)<br />[2.INTJ阴影功能人格分析（含十六型人格分析原理）](https://www.bilibili.com/video/BV1ev4y1372K)<br />[高智商战略家？INTJ隐藏的自我认同焦虑](https://www.bilibili.com/video/BV1aL411y7Mj)<br />[INTJ的完美主义焦虑](https://www.bilibili.com/video/BV1rg4y1d7eE) |
   | INFJ | [INFJ “永远的和平”](https://www.bilibili.com/video/BV1Wb4y1s7Lm)<br />[INFJ和INTJ是知己还是陌路？全方位人格分析两者羁绊！](https://www.bilibili.com/video/BV16Z4y1v7Wk)<br />[网友说我美化INFJ，颠倒善恶混淆是非？](https://www.bilibili.com/video/BV1r24y1y7NU)<br />[INFJ的「理性」和「感性」（对比INTJ/INTP/INFP/ISFJ）](https://www.bilibili.com/video/BV1AN411z7rq)<br />[理论+考据深入INFJ截然不同的特征](https://www.bilibili.com/video/BV1QN4y1H727)<br />[INFJ的Grip&Loop：荣格的补偿概念及能量观](https://www.bilibili.com/video/BV1vyBiYAEZg)<br />[Frank James \| 7 Signs You're an Unhealthy INFJ<br />](https://www.bilibili.com/video/BV13Q4y167SX)[Frank James \| 6 Ways to be a Healthier INFJ](https://www.bilibili.com/video/BV12f4y1w7r1)<br />[Frank James \| INFJ: 3 Self-Motivation Secrets](https://www.bilibili.com/video/BV1e44y1e7ej)<br />[Frank James \| INFJ Career Advice: 4 Things You Need to be Fulfilled](https://youtu.be/zgxN6GaiGbE?feature=shared)<br />[Frank James \| INFJ Perfectionist Paralysis](https://www.bilibili.com/video/BV1uU4y1F7Jr) |
   | ISTP | [欢迎登陆ISTP号飞船：世上终究没有真正的酷哥](https://www.bilibili.com/video/BV1cT411t7eR)<br />[ISTP+INTJ+INTP八维全方位对比人格分析，谁是真正的孤勇者？](https://www.bilibili.com/video/BV18S4y1t7xM) |
   | ISFP | [ISFP+INFP八维全方位对比人格分析，文艺青年大不同](https://www.bilibili.com/video/BV1kG4y1v7Jo) |
-  | ISTJ |                                                              |
+  | ISTJ | [ISTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV1pg411Z7xs)<br />[ISTJ: 用时间去证明可靠与深情](https://www.bilibili.com/video/BV1Sm4y1Y7ys) |
   | ISFJ | [欢迎登陆ISFJ号飞船: 我希望你看到的不只是温柔](https://www.bilibili.com/video/BV1hh4y1472t) |
   | ENTP | [ENTP “跳脱的智者”](https://www.bilibili.com/video/BV1aB4y117L1)<br />[ENTP小恶魔确实有理论依据？（含镜像人格概念）](https://www.bilibili.com/video/BV1w24y1D7Yq)<br />[ENTP在大多数权威著作里都不是杠精](https://www.bilibili.com/video/BV1Pc411v7B2) |
   | ENFP | [1.ENFP全方位专业人格分析](https://www.bilibili.com/video/BV1Xe4y1d7vp)<br />[2.超有趣+硬核的ENFP人格阴影](https://www.bilibili.com/video/BV1Rd4y1g7Mq) |
@@ -87,11 +86,13 @@ permalink: /about/share/mbti
   | ESTP | [ESTP全方位专业人格分析（含ESFP）](https://www.bilibili.com/video/BV1Vj41187Kx) |
   | ESFP | [ESFP全方位专业人格分析+四维度全反的INTJ对比](https://www.bilibili.com/video/BV1NG41147mH) |
   | ESTJ | [ENTJ全方位专业人格分析（含INTJ对比）](https://www.bilibili.com/video/BV13M411N7Dy)<br />[经济环境恶劣，我身边的ENTJ卷王们都卷不动了](https://www.bilibili.com/video/BV1EN4y1y75g) |
-  | ESFJ |                                                              |
+  | ESFJ | [ESFJ全方位专业人格分析](https://www.bilibili.com/video/BV1ig4y1P7wU)<br />[欢迎登陆ESFJ号飞船：我愿做那冬日的暖阳，换来你的冰雪融化](https://www.bilibili.com/video/BV1WN411Y7Ah) |
 
   <br/>
 
 - 相似类型
+  <br/>
+
   | 类型(E/I)   | 视频                                                         |
   | ----------- | ------------------------------------------------------------ |
   | ENTJ & INTJ | [我们习惯强悍的人设，却忘了脆弱的力量](https://www.bilibili.com/video/BV1Md1sYrEJr) |
@@ -117,7 +118,7 @@ permalink: /about/share/mbti
   |      |      |
 
   <br/>
-  
+
   | 类型(P/J) | 视频 |
   | ---- | ---- |
   | INFP & INFJ | [Frank James \| INFJ vs INFP Different Struggle](https://www.bilibili.com/video/BV1di4y1C7jt) |
@@ -132,13 +133,11 @@ permalink: /about/share/mbti
   - [不同专家对16人格首尾字母组合研究对比](https://www.bilibili.com/video/BV1vG41167qQ)
   
 - 神经科学相关
-  
   - ["Neuroscience of Personality" by Dario Nardi at Google](https://youtu.be/MGfhQTbcqmA?feature=shared)
   - ["Neurosciences et Typologie" by Dario Nardi](https://youtu.be/vbtE7fpUbpQ?feature=shared), in English
   - ["MBTI科學嗎？腦神經科學家談MBTI 和四種子類型 ft. Dario Nardi博士" by 雪力](https://www.bilibili.com/video/BV15T4y1W7Bk)
   
 - 其它
-
   - [内部互撕？MBTI各种流派大梳理+书单推荐!](https://www.bilibili.com/video/BV1Ye4y1t75b)
 
 #### 书籍
