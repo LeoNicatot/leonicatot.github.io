@@ -11,4 +11,5 @@ permalink: /about/share
 - [MBTI资料](/about/share/mbti)
 - [中医资料](/about/share/tcm)
 - [佛法资料](/about/share/buddhism)
+- [环境配置](/about/share/environment)
 - [其它](/about/share/others)
