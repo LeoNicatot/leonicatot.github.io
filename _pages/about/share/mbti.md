@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MBTI及荣格八维理论
-permalink: /about/share/mbti
+title: 心理类型学：MBTI、荣格八维、OPS
+permalink: /about/share/typology
 ---
 
 #### 频道
@@ -23,9 +23,9 @@ permalink: /about/share/mbti
 
   | 维度 | 视频                                                         |
   | ---- | ------------------------------------------------------------ |
-  | I/E  | [【狐狸刷刷的类型学】为什么人会有I和E之分(内外向)](https://www.bilibili.com/video/BV1gY4y1G7HS/) |
+  | I/E  | [【狐狸刷刷的类型学】为什么人会有I和E之分(内外向)](https://www.bilibili.com/video/BV1gY4y1G7HS/)<br />[【说人话的OPS】感知主导 vs 判断主导 \| 你的E/I分对了吗?](https://www.bilibili.com/video/BV1DeNmeXEL6) |
   | S/N  | [【狐狸刷刷的类型学】为什么人会有S和N之分(实感和直觉)](https://www.bilibili.com/video/BV1St4y1H7bm/)<br />[【说人话的OPS】N人和S人的区别](https://www.bilibili.com/video/BV1TeKKeiEAh) |
-  | T/F  | [【狐狸刷刷的类型学】T 和 F 到底啥区别](https://www.bilibili.com/video/BV1Ur4y1u77B) |
+  | T/F  | [【狐狸刷刷的类型学】T 和 F 到底啥区别](https://www.bilibili.com/video/BV1Ur4y1u77B)<br />[【说人话的OPS】T人和F人的区别](https://www.bilibili.com/video/BV11RPVe7EKE) |
   | J/P  | [【狐狸刷刷的类型学】最最深的J/P识别，真不是做不做计划！来监控你的脑子!](https://www.bilibili.com/video/BV18t4y1t7L2)<br />[【骨哥说】最简洁清晰的J-P维度和荣格八维关系讲解](https://www.bilibili.com/video/BV1Le4y187tT) |
 
   <br/>
@@ -45,7 +45,7 @@ permalink: /about/share/mbti
   | Si            | [【骨哥说】从荣格到MBTI到毕比模型，Si是怎么歪掉的](https://www.bilibili.com/video/BV1yH4y1N7HF) |
   | Se            | [【狐狸刷刷的类型学】Se大型专题](https://www.bilibili.com/video/BV1Rg411i7mk)<br />[【骨哥说】Se演变史-ESTP和ESFP都享乐主义？荣格说绝对不是](https://www.bilibili.com/video/BV1jJSzYTEsc) |
   | Ti            | [【骨哥说】Ti演变史（上）- 荣格定义的Ti](https://www.bilibili.com/video/BV1Yf421D7JS)<br />[【骨哥说】Ti演变史（下）- 不同学者Ti描述大不同](https://www.bilibili.com/video/BV1Wb421p7Co)<br />[【狐狸刷刷的类型学】Ti大型专题](https://www.bilibili.com/video/BV1zj411M73T)<br />[【骨哥说】Ti和Ni真的差很远](https://www.bilibili.com/video/BV1Lz421X74t)<br />[【说人话的OPS】Ti精讲](https://www.bilibili.com/video/BV1kTkxYpEUQ) |
-  | Te            | [【狐狸刷刷的类型学】Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW)<br />[【说人话的OPS】Te精讲](https://www.bilibili.com/video/BV1jACWY3EX2) |
+  | Te            | [【狐狸刷刷的类型学】Te大型专题](https://www.bilibili.com/video/BV1vo4y1K7VW)<br />[【说人话的OPS】Te精讲](https://www.bilibili.com/video/BV1jACWY3EX2)<br />[【骨哥说】Te演变史·ENTJ/ESTJ的高度理智和被压抑的情感](https://www.bilibili.com/video/BV18AKjeqEs4) |
   | Fi            | [【骨哥说】我不够善良，甚至可以很阴暗](https://www.bilibili.com/video/BV1Kb421q7NR)<br />[【狐狸刷刷的类型学】Fi大型专题](https://www.bilibili.com/video/BV19v4y1b7uB)<br />[【狐狸刷刷的类型学】不同位置的Fi对比丨从INFP到ENTJ](https://www.bilibili.com/video/BV1HQ4y1473V) |
   | Fe            | [【狐狸刷刷的类型学】Fe大型专题](https://www.bilibili.com/video/BV16T411n7sW)<br />[【骨哥说】INTJ博主对Fe的偏见（ENFJ/ESFJ）](https://www.bilibili.com/video/BV1Hh4y1P7t6) |
 
