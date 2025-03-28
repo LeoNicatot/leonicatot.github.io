@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 常用命令行工具
-permalink: /about/share/environment/tools
+permalink: /about/environment/tools
 ---
 
 #### `tmux`

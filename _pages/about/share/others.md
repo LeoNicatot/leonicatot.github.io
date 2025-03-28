@@ -52,3 +52,8 @@ permalink: /about/share/others
 ##### 文章
 
 - [Fifty years of P vs. NP and the possibility of the impossible](https://dl.acm.org/doi/abs/10.1145/3460351) [中文版](https://mp.weixin.qq.com/s/GMvRb9pI1gFGYWEG5xcxyw)
+
+---
+#### 博客及个人主页
+
+- [Bojie Li (李博杰)](https://01.me/)

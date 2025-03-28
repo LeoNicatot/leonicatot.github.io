@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 软件下载与安装
-permalink: /about/share/environment/install
+permalink: /about/environment/install
 ---
 
 

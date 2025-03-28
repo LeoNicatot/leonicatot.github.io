@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 代理与镜像(mirror)设置
-permalink: /about/share/environment/proxy
+permalink: /about/environment/proxy
 ---
 
 #### 目录
