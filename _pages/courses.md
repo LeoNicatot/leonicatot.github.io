@@ -2,7 +2,6 @@
 layout: page
 permalink: /courses/
 title: 课程
-nav: true
 ---
 
 #### 担任过助教的课程

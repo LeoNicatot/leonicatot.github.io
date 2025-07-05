@@ -3,7 +3,6 @@ layout: page
 permalink: /seminars/
 title: 讨论班
 description: 
-nav: true
 ---
 
 从2023年秋季学期开始，我们想开始在苏州校区尝试搞些讨论班，主要原因有以下几点：
