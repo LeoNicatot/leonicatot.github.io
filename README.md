@@ -1,1 +1,0 @@
-# Leo Nicatot's Blog
