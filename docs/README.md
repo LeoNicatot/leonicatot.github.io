@@ -1,9 +1,5 @@
 # 关于Leo Nicatot
 
-<figure style="float: right; width: 250px; margin-left: 20px; text-align: center;">
-  <img src="images/my_pic.jpg" style="width: 100%;">
-  <figcaption style="font-size: 0.8em; color: #888;">AI生成的照骗，切莫当真ʕ•ᴥ•ʔ</figcaption>
-</figure>
 Nicatot是一个计算机科学的博士生，至于他将来是什么（假如那时候还活着的话）他也不知道，反正当下他是计算机科学的博士生。
 
 Nicatot是一个难以感受到快乐的人[^1]，至于他将来能不能感受到快乐他也不知道，反正当下他难以感受到快乐（所以他现在这个主页也没有之前那么轻松戏谑了）。
