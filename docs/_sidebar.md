@@ -1,2 +1,2 @@
 * [<font size=5>首页</font>](/)
-* Blog
+* [数理逻辑](/enderton1)
