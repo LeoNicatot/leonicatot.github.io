@@ -1,2 +1,3 @@
 * [<font size=5>首页</font>](/)
 * [数理逻辑](/enderton1)
+* [French](/french/)
