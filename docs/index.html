@@ -6,13 +6,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"> -->
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
   <style>
     /* 1. 设置全局基础字号为 20px */
     html, body {
       font-size: 20px;
+      font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Microsoft YaHei", "Arial Unicode MS", sans-serif; /* 显示泰语字符 */
     }
   
     /* 2. 针对文档正文区域的优化 */
@@ -42,7 +43,7 @@
         font-size: 18px;
       }
     }
-    
+
     /* 1. 缩小脚注文字整体大小 */
     p:has(.footnote-reference-symbol), 
     [id^="fn-"], 
@@ -65,6 +66,35 @@
       height: 12px !important; /* 让箭头也跟着缩小 */
       opacity: 0.6;
     }
+
+    /* 基础泰语样式 */
+    .thai-text {
+        font-size: 1.5em; 
+        line-height: 1.8;
+        font-family: "Leelawadee UI", "Thonburi", "Noto Sans Thai", "Arial Unicode MS", sans-serif;
+        /* vertical-align: middle; */
+        vertical-align: 0em;
+        font-weight: normal;
+    }
+
+    /* 专门针对孤立声调符号的样式：进一步放大 */
+    .thai-symbol {
+        font-size: 2.2em; /* 符号列给到 2.2 倍，抵消视觉上的细小感 */
+        font-family: "Leelawadee UI", "Arial Unicode MS", sans-serif;
+        line-height: 1;
+        vertical-align: -0.15em;
+        color: #333; /* 稍微深一点的颜色能增加对比度 */
+    }
+
+    /* 适当增加表格行高，为大字号留出空间 */
+    .markdown-section table td {
+        line-height: 2;
+    }
+
+      .markdown-section mark {
+      padding: 0 .15em;
+      border-radius: .2em;
+    }
   </style>
 </head>
 <body>
@@ -78,13 +108,50 @@
       latex: {
         inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
         displayMath  : [['$$', '$$']],               // default
-      },
+      }, 
       toc: {
         scope: '.markdown-section',
         headings: 'h1, h2, h3, h4, h5, h6',
         title: 'Table of Contents',
       }
     }
+  </script>
+  <script>
+    (function () {
+      // 把 ==text== 变成 <mark>text</mark>
+      // 同时尽量避免误伤代码块/行内代码
+      function enableMark(md) {
+        const stash = [];
+  
+        // 保护代码块 ```...```
+        md = md.replace(/```[\s\S]*?```/g, (m) => {
+          stash.push(m);
+          return `@@CODE_${stash.length - 1}@@`;
+        });
+  
+        // 保护行内代码 `...`
+        md = md.replace(/`[^`\n]*`/g, (m) => {
+          stash.push(m);
+          return `@@CODE_${stash.length - 1}@@`;
+        });
+  
+        // 替换 ==...==（不跨行）
+        md = md.replace(/==([^\n]+?)==/g, "<mark>$1</mark>");
+  
+        // 还原代码
+        md = md.replace(/@@CODE_(\d+)@@/g, (_, i) => stash[+i]);
+        return md;
+      }
+  
+      function markPlugin(hook) {
+        hook.beforeEach(function (content) {
+          return enableMark(content);
+        });
+      }
+  
+      window.$docsify = window.$docsify || {};
+      window.$docsify.plugins = [].concat(window.$docsify.plugins || [], markPlugin);
+    })();
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
