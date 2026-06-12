@@ -3,3 +3,4 @@
 * [French](/french/)
 * [English](/english/)
 * [English-Academic](/english-academic/)
+* [German](/german/)
