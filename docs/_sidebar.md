@@ -4,3 +4,5 @@
 * [English](/english/)
 * [English-Academic](/english-academic/)
 * [German](/german/)
+* [TCM](/tcm/)
+* [Physical Exercise](/physical-exercise/)
