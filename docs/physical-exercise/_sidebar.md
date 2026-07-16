@@ -2,3 +2,4 @@
 * [Physical Exercise](/physical-exercise/)
 * [20260713](/physical-exercise/20260713)
 * [20260714](/physical-exercise/20260714)
+* [20260716](/physical-exercise/20260716)
