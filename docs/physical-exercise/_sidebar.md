@@ -3,3 +3,7 @@
 * [20260713](/physical-exercise/20260713)
 * [20260714](/physical-exercise/20260714)
 * [20260716](/physical-exercise/20260716)
+* [20260726](/physical-exercise/20260726)
+* [20260809](/physical-exercise/20260809)
+* [20260810](/physical-exercise/20260810)
+* [20260811](/physical-exercise/20260811)
