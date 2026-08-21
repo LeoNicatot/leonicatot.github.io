@@ -8,3 +8,4 @@
 - [20260613](/french/20260613): (A1-Reading) La présentation
 - ~~[20260709](/french/20260709): (A1-Reading) La rencontre~~
 - [20260719](/french/20260719): (A1-Listening) Je m’appelle Lara
+- [20260821](/french/20260821): (A1-Listening) A l’école
